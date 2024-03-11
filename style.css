@@ -1,0 +1,11 @@
+img{
+    width: 50%;
+    margin-bottom: 20px;
+}
+h1,p{
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin-bottom: 20px;
+}
